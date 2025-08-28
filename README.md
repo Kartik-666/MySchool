@@ -1,2 +1,2 @@
 # SchoolWeb
-![Demo School Web](D:\SchoolWeb-dev\SchoolWeb\read\SchoolWeb.gif)
+![Demo School Web](https://github.com/Kartik-666/MySchool/blob/master/read/SchoolWeb.gif)
